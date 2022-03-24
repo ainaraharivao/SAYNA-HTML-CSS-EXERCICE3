@@ -1,0 +1,10 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+p{
+    color: #ababab;;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:ital,wght@0,100;1,600&display=swap');
